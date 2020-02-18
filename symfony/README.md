@@ -12,3 +12,8 @@
 
 `php SYMFONY_ROOT_LOC generate:app APP_NAME`
 
+
+
+### Request Methods
+
+![request_methods](./images/request_methods.png)
